@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ebube</h1>
+<h3 align="center">Front-End Developer | UI Enthusiast | SEO Writer</h3>
 
-<!--
-**ISyncPlus/iSyncPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I'm a front-end developer focused on building **responsive**, **accessible**, and **user-centric** web applications. I love turning ideas into polished, intuitive interfaces using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages & Frameworks:**  
+  HTML • CSS • JavaScript • TypeScript • React
+
+- **Styling:**  
+  Tailwind CSS • Responsive Design • Mobile-First Development
+
+- **Best Practices:**  
+  Clean Code • Component-Based Architecture • Performance Optimization
+
+- **Tools:**  
+  Git • VS Code • Chrome DevTools • Modern Dev Workflows
+
+- **Other Skills:**  
+  ✍️ SEO Content Writing – for optimized digital experiences that drive engagement
+
+---
+
+### 🚀 Currently Learning
+
+- 📘 **Next.js** – diving deeper into full-stack React
+- 🔧 Improving my **TypeScript** fluency
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [eezedimbu@gmail.com](mailto:eezedimbu@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/eezedimbu](https://linkedin.com/in/eezedimbu)
+
+---
+
+Thanks for visiting! 🙌
