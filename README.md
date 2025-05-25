@@ -36,7 +36,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: [eezedimbu@gmail.com](mailto:eezedimbu@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/eezedimbu](https://linkedin.com/in/eezedimbu)
+- 💼 LinkedIn: [linkedin.com/in/ebube-ezedimbu](https://linkedin.com/in/ebube-ezedimbu)
 
 ---
 
