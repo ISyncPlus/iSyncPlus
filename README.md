@@ -19,7 +19,7 @@
   Clean Code • Component-Based Architecture • Performance Optimization
 
 - **Tools:**  
-  Git • VS Code • Chrome DevTools • Modern Dev Workflows
+  Git • VS Code • Chrome DevTools • Modern Dev Workflows • Supabase 
 
 - **Other Skills:**  
   ✍️ SEO Content Writing – for optimized digital experiences that drive engagement
