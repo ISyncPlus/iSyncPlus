@@ -11,7 +11,7 @@ I'm a Full-Stack Developer passionate about building responsive, accessible, and
 ## 🛠️ Tech Stack
 
 Frontend:
-HTML • CSS • JavaScript • TypeScript • React • Next.js
+HTML • CSS • JavaScript • TypeScript • React • Next.js, React Native
 
 Styling:
 Tailwind CSS • Responsive Design • Mobile-First Development
@@ -26,8 +26,7 @@ Tools:
 Git • VS Code • Chrome DevTools • Modern Dev Workflows
 
 Other Skills:
-✍️ SEO Content Writing – creating optimized digital experiences that drive engagement
-
+✍️ SEO Content Writing
 
 
 ---
@@ -38,7 +37,7 @@ Other Skills:
 
 📘 Advancing in TypeScript and scalable app architecture
 
-⚡ Building seamless full-stack experiences from idea to deployment
+⚡ Building seamless full-stack mobile app experiences from idea to deployment
 
 
 
