@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101819,50:91c9ba,100:e8b86d&height=180&section=header&text=iSyncPlus&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="iSyncPlus animated header">
+<img width="100%" src="https://raw.githubusercontent.com/ISyncPlus/iSyncPlus/main/assets/isyncplus-banner.svg" alt="iSyncPlus — interfaces in motion">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=91C9BA&center=true&vCenter=true&width=850&lines=Creative+developer+%C2%B7+UI+engineer;I+turn+rough+ideas+into+polished+products;Design+systems+%C3%97+motion+%C3%97+reliable+engineering;Building+interfaces+that+feel+as+good+as+they+work)](https://git.io/typing-svg)
 
