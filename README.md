@@ -60,13 +60,13 @@ APIs, authentication, data models, search, and production-ready architecture beh
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.lodemark.ai/"><img src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/lodemark.jpg" alt="Lodemark project preview"></a>
+      <a href="https://www.lodemark.ai/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/lodemark.jpg" alt="Lodemark project preview"></a>
       <h3><a href="https://www.lodemark.ai/">Lodemark ↗</a></h3>
       <p><strong>Client website</strong><br>A confident digital front door for a managed cloud infrastructure and DevOps partner.</p>
       <sub>Web design · Frontend · Client work</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://under-story-pi.vercel.app/"><img src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/understory.png" alt="UnderStory project preview"></a>
+      <a href="https://under-story-pi.vercel.app/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/understory.png" alt="UnderStory project preview"></a>
       <h3><a href="https://under-story-pi.vercel.app/">UnderStory ↗</a></h3>
       <p><strong>Dependency intelligence</strong><br>Trace the shortest path from an application to vulnerable code it did not write.</p>
       <sub>Next.js · TypeScript · CognoDB · openCypher</sub>
@@ -74,13 +74,13 @@ APIs, authentication, data models, search, and production-ready architecture beh
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://axiom-ai-ten.vercel.app/"><img src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/axiom.jpg" alt="Axiom AI project preview"></a>
+      <a href="https://axiom-ai-ten.vercel.app/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/axiom.jpg" alt="Axiom AI project preview"></a>
       <h3><a href="https://axiom-ai-ten.vercel.app/">Axiom AI ↗</a></h3>
       <p><strong>AI SaaS landing page</strong><br>A premium marketing experience for an AI operating system concept.</p>
       <sub>Next.js · React · TypeScript · Tailwind CSS · Motion</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://provenance-imvs.vercel.app/"><img src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/provenance.jpg" alt="Provenance project preview"></a>
+      <a href="https://provenance-imvs.vercel.app/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/provenance.jpg" alt="Provenance project preview"></a>
       <h3><a href="https://provenance-imvs.vercel.app/">Provenance ↗</a></h3>
       <p><strong>Image verification</strong><br>A metadata and verification system for practical coursework and fieldwork.</p>
       <sub>Next.js · TypeScript · exifr · Better Auth · Motion</sub>
@@ -88,13 +88,13 @@ APIs, authentication, data models, search, and production-ready architecture beh
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://hydra-plum-eight.vercel.app/"><img src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/hydra.jpg" alt="Hydra VR project preview"></a>
+      <a href="https://hydra-plum-eight.vercel.app/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/hydra.jpg" alt="Hydra VR project preview"></a>
       <h3><a href="https://hydra-plum-eight.vercel.app/">Hydra VR ↗</a></h3>
       <p><strong>Immersive landing page</strong><br>A responsive concept introducing a virtual-reality experience.</p>
       <sub>React · TypeScript · Tailwind CSS · Vite</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://arise-airs.vercel.app/"><img src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/arise.png" alt="ARISE project preview"></a>
+      <a href="https://arise-airs.vercel.app/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/previews/arise.png" alt="ARISE project preview"></a>
       <h3><a href="https://arise-airs.vercel.app/">ARISE ↗</a></h3>
       <p><strong>Immersive aviation experience</strong><br>An editorial landing page for a fictional private aviation house.</p>
       <sub>React · TypeScript · Three.js · Tailwind CSS · Vite</sub>
@@ -109,15 +109,15 @@ APIs, authentication, data models, search, and production-ready architecture beh
 ## ⚡ The toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,framer,flutter,nodejs,express,postgres,prisma,python,git,github,vercel&perline=7" alt="Technology stack">
+  <img width="100%" height="auto" src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,framer,flutter,nodejs,express,postgres,prisma,python,git,github,vercel&perline=7" alt="Technology stack">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-101819?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-101819?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-101819?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Framer_Motion-101819?style=for-the-badge&logo=framer&logoColor=BB85FF" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/Flutter-101819?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter">
+  <img height="28" src="https://img.shields.io/badge/Next.js-101819?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img height="28" src="https://img.shields.io/badge/React-101819?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img height="28" src="https://img.shields.io/badge/TypeScript-101819?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img height="28" src="https://img.shields.io/badge/Framer_Motion-101819?style=for-the-badge&logo=framer&logoColor=BB85FF" alt="Framer Motion">
+  <img height="28" src="https://img.shields.io/badge/Flutter-101819?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter">
 </p>
 
 <details>
@@ -136,20 +136,20 @@ APIs, authentication, data models, search, and production-ready architecture beh
 ## ◈ GitHub in motion
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ISyncPlus&show_icons=true&hide_border=true&bg_color=00000000&title_color=101819&icon_color=91c9ba&text_color=64748b&ring_color=91c9ba&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISyncPlus&layout=compact&hide_border=true&bg_color=00000000&title_color=101819&text_color=64748b&langs_count=8" alt="Top languages">
+  <a href="https://github.com/ISyncPlus?tab=overview"><img width="49%" height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ISyncPlus&show_icons=true&hide_border=true&bg_color=00000000&title_color=91c9ba&icon_color=e8b86d&text_color=f8fafc&ring_color=91c9ba&include_all_commits=true" alt="GitHub stats"></a>
+  <a href="https://github.com/ISyncPlus?tab=repositories"><img width="49%" height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ISyncPlus&layout=compact&hide_border=true&bg_color=00000000&title_color=91c9ba&text_color=f8fafc&langs_count=8" alt="Top languages"></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ISyncPlus&hide_border=true&background=00000000&ring=91c9ba&fire=e8b86d&currStreakLabel=101819&sideLabels=64748b&dates=64748b" alt="GitHub contribution streak">
+  <img width="100%" height="auto" src="https://streak-stats.demolab.com?user=ISyncPlus&hide_border=true&background=00000000&ring=91c9ba&fire=e8b86d&currStreakLabel=91c9ba&sideLabels=f8fafc&dates=94a3b8" alt="GitHub contribution streak">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISyncPlus&bg_color=00000000&color=64748b&line=91c9ba&point=e8b86d&area=true&hide_border=true" alt="GitHub activity graph">
+  <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=ISyncPlus&bg_color=00000000&color=f8fafc&line=91c9ba&point=e8b86d&area=true&hide_border=true" alt="GitHub activity graph">
 </div>
 
 ## ⌁ Currently
