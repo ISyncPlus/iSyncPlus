@@ -136,8 +136,8 @@ APIs, authentication, data models, search, and production-ready architecture beh
 ## ◈ GitHub in motion
 
 <div align="center">
-  <a href="https://github.com/ISyncPlus?tab=overview"><img width="49%" height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ISyncPlus&show_icons=true&hide_border=true&bg_color=00000000&title_color=91c9ba&icon_color=e8b86d&text_color=f8fafc&ring_color=91c9ba&include_all_commits=true" alt="GitHub stats"></a>
-  <a href="https://github.com/ISyncPlus?tab=repositories"><img width="49%" height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ISyncPlus&layout=compact&hide_border=true&bg_color=00000000&title_color=91c9ba&text_color=f8fafc&langs_count=8" alt="Top languages"></a>
+  <a href="https://github.com/ISyncPlus?tab=overview"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ISyncPlus&show_icons=true&hide_border=true&bg_color=00000000&title_color=91c9ba&icon_color=e8b86d&text_color=f8fafc&ring_color=91c9ba&include_all_commits=true" alt="GitHub stats"></a>
+  <a href="https://github.com/ISyncPlus?tab=repositories"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISyncPlus&layout=compact&hide_border=true&bg_color=00000000&title_color=91c9ba&text_color=f8fafc&langs_count=8" alt="Top languages"></a>
 </div>
 
 <br>
