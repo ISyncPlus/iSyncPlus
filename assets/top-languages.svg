@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="220" viewBox="0 0 520 220" role="img" aria-labelledby="title desc">
+  <title id="title">Top programming languages</title>
+  <desc id="desc">A chart showing TypeScript, JavaScript, HTML, CSS, and Python as the primary languages.</desc>
+  <rect width="520" height="220" rx="14" fill="#101819" stroke="#33444a"/>
+  <text x="26" y="38" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Top languages</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13">
+    <text x="26" y="76" fill="#f8fafc">TypeScript</text><text x="474" y="76" fill="#94a3b8" text-anchor="end">42%</text>
+    <rect x="26" y="84" width="448" height="10" rx="5" fill="#26353a"/><rect x="26" y="84" width="188" height="10" rx="5" fill="#3178c6"/>
+    <text x="26" y="116" fill="#f8fafc">JavaScript</text><text x="474" y="116" fill="#94a3b8" text-anchor="end">24%</text>
+    <rect x="26" y="124" width="448" height="10" rx="5" fill="#26353a"/><rect x="26" y="124" width="108" height="10" rx="5" fill="#f1e05a"/>
+    <text x="26" y="156" fill="#f8fafc">HTML / CSS</text><text x="474" y="156" fill="#94a3b8" text-anchor="end">26%</text>
+    <rect x="26" y="164" width="448" height="10" rx="5" fill="#26353a"/><rect x="26" y="164" width="116" height="10" rx="5" fill="#e34c26"/>
+    <text x="26" y="196" fill="#f8fafc">Python · Other</text><text x="474" y="196" fill="#94a3b8" text-anchor="end">8%</text>
+  </g>
+</svg>
