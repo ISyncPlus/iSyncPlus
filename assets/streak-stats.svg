@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub contribution streak</title>
+  <desc id="desc">Current contribution streak of 2 days and longest streak of 13 days.</desc>
+  <rect width="900" height="240" rx="14" fill="#101819" stroke="#33444a"/>
+  <text x="32" y="38" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Contribution streak</text>
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="225" y="106" fill="#91c9ba" font-size="42" font-weight="700">2</text>
+    <text x="225" y="138" fill="#f8fafc" font-size="16" font-weight="700">Current Streak</text>
+    <text x="225" y="164" fill="#94a3b8" font-size="13">Nov 6 – Nov 7</text>
+    <text x="450" y="106" fill="#e8b86d" font-size="42" font-weight="700">13</text>
+    <text x="450" y="138" fill="#f8fafc" font-size="16" font-weight="700">Longest Streak</text>
+    <text x="450" y="164" fill="#94a3b8" font-size="13">Aug 17 – Aug 29</text>
+    <text x="675" y="106" fill="#91c9ba" font-size="42" font-weight="700">751</text>
+    <text x="675" y="138" fill="#f8fafc" font-size="16" font-weight="700">Total Contributions</text>
+    <text x="675" y="164" fill="#94a3b8" font-size="13">Oct 28, 2023 – Present</text>
+  </g>
+</svg>
