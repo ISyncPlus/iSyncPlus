@@ -136,20 +136,20 @@ APIs, authentication, data models, search, and production-ready architecture beh
 ## ◈ GitHub in motion
 
 <div align="center">
-  <a href="https://github.com/ISyncPlus?tab=overview"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ISyncPlus&show_icons=true&hide_border=true&bg_color=00000000&title_color=91c9ba&icon_color=e8b86d&text_color=f8fafc&ring_color=91c9ba&include_all_commits=true" alt="GitHub stats"></a>
-  <a href="https://github.com/ISyncPlus?tab=repositories"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISyncPlus&layout=compact&hide_border=true&bg_color=00000000&title_color=91c9ba&text_color=f8fafc&langs_count=8" alt="Top languages"></a>
+  <a href="https://github.com/ISyncPlus?tab=overview"><img width="58%" height="auto" src="./assets/github-stats.svg" alt="GitHub contribution summary"></a>
+  <a href="https://github.com/ISyncPlus?tab=repositories"><img width="40%" height="auto" src="./assets/top-languages.svg" alt="Top languages"></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" height="auto" src="https://streak-stats.demolab.com?user=ISyncPlus&hide_border=true&background=00000000&ring=91c9ba&fire=e8b86d&currStreakLabel=91c9ba&sideLabels=f8fafc&dates=94a3b8" alt="GitHub contribution streak">
+  <img width="100%" height="auto" src="./assets/streak-stats.svg" alt="GitHub contribution streak">
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=ISyncPlus&bg_color=00000000&color=f8fafc&line=91c9ba&point=e8b86d&area=true&hide_border=true" alt="GitHub activity graph">
+  <img width="100%" height="auto" src="./assets/activity-graph.svg" alt="GitHub activity graph">
 </div>
 
 ## ⌁ Currently
