@@ -1,55 +1,61 @@
 <div align="center">
 
-<a href="https://isyncplus.vercel.app">
-  <img src="https://raw.githubusercontent.com/ISyncPlus/My_Portfolio/main/public/brand/isyncplus-mark-on-white.png" width="100" alt="iSyncPlus logo">
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101819,50:91c9ba,100:e8b86d&height=180&section=header&text=iSyncPlus&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="iSyncPlus animated header">
 
-# iSyncPlus
-
-### Creative developer · UI engineer · product-minded builder
-
-<p>
-  I design and build expressive digital experiences where<br>
-  <strong>strong visual systems</strong>, <strong>thoughtful interaction</strong>, and <strong>reliable engineering</strong> meet.
-</p>
-
-<p>
-  <a href="https://isyncplus.vercel.app"><img src="https://img.shields.io/badge/Explore_the_portfolio-101819?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore the portfolio"></a>
-  <a href="https://www.linkedin.com/in/ebube-ezedimbu/"><img src="https://img.shields.io/badge/Let's_connect-91c9ba?style=for-the-badge&logo=linkedin&logoColor=101819" alt="Let's connect"></a>
-  <a href="mailto:eezedimbu@gmail.com"><img src="https://img.shields.io/badge/Email_me-e8b86d?style=for-the-badge&logo=gmail&logoColor=101819" alt="Email me"></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Available_for_collaboration-91c9ba?style=flat-square&labelColor=101819" alt="Available for collaboration">
-  <img src="https://img.shields.io/badge/Location-Lagos%2C_Nigeria-e8b86d?style=flat-square&labelColor=101819" alt="Lagos, Nigeria">
-  <img src="https://img.shields.io/badge/Focus-Design--minded_engineering-9c8cff?style=flat-square&labelColor=101819" alt="Design-minded engineering">
-</p>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=91C9BA&center=true&vCenter=true&width=850&lines=Creative+developer+%C2%B7+UI+engineer;I+turn+rough+ideas+into+polished+products;Design+systems+%C3%97+motion+%C3%97+reliable+engineering;Building+interfaces+that+feel+as+good+as+they+work)](https://git.io/typing-svg)
 
 <br>
 
-## ✦ Who I am
+**`Design-minded engineer · Full-stack builder · Motion enthusiast`**
 
-I’m **Ebube Ezedimbu** — your friendly neighbourhood code whisperer.
+<p>
+  <a href="https://isyncplus.vercel.app"><img src="https://img.shields.io/badge/Portfolio-101819?style=for-the-badge&logo=vercel&logoColor=91c9ba" alt="Portfolio"></a>
+  <a href="https://github.com/ISyncPlus"><img src="https://img.shields.io/badge/GitHub-101819?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ebube-ezedimbu/"><img src="https://img.shields.io/badge/LinkedIn-91c9ba?style=for-the-badge&logo=linkedin&logoColor=101819" alt="LinkedIn"></a>
+  <a href="mailto:eezedimbu@gmail.com"><img src="https://img.shields.io/badge/Email-e8b86d?style=for-the-badge&logo=gmail&logoColor=101819" alt="Email"></a>
+</p>
 
-I build web and mobile products that feel as good as they function. My work blends frontend craft, backend thinking, visual design, and a healthy curiosity for unusual problems. I enjoy taking an idea from a rough sketch to a polished, working experience.
+<img src="https://komarev.com/ghpvc/?username=ISyncPlus&label=PROFILE+VIEWS&color=91c9ba&style=flat-square" alt="Profile views">
 
-My sweet spot is the space between **product design and software engineering**: shaping interfaces, building dependable systems, and making complex ideas easier to understand.
+</div>
 
-> **Design-minded. Engineering-driven.**
+---
 
-## ✺ What I build
+## ✦ Hello, I'm Ebube
 
-| Focus | The kind of work I enjoy |
-| --- | --- |
-| **Digital products** | Responsive web and mobile experiences with clear UX and strong visual direction |
-| **Interactive interfaces** | Motion-led landing pages, dashboards, creative tools, and product concepts |
-| **Full-stack systems** | APIs, authentication, data models, and production-ready application architecture |
-| **Data-rich products** | Graphs, provenance, search, and systems that make complex information legible |
-| **Creative experiments** | Games, animations, visual studies, and prototypes that push the browser a little further |
+I build web and mobile products that feel as good as they function. My work sits at the intersection of **product design, frontend craft, backend thinking, and expressive motion**.
 
-## ✦ Selected work
+I enjoy taking an idea from a rough sketch to a polished, working experience: shaping the interface, designing the system underneath it, and adding the small details that make people want to keep using it.
+
+> **Design-minded. Engineering-driven. Always looking for the next delightful interaction.**
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### ✦ Product experiences
+
+Responsive products, landing pages, dashboards, and mobile interfaces with a clear visual language.
+
+</td>
+<td valign="top" width="33%">
+
+### ◌ Motion & interaction
+
+Type, transitions, scroll choreography, hover states, and purposeful micro-interactions that communicate.
+
+</td>
+<td valign="top" width="34%">
+
+### ⚙ Systems that hold up
+
+APIs, authentication, data models, search, and production-ready architecture behind the polish.
+
+</td>
+</tr>
+</table>
+
+## ✺ Selected work
 
 <table>
   <tr>
@@ -100,18 +106,18 @@ My sweet spot is the space between **product design and software engineering**: 
   <a href="https://isyncplus.vercel.app/work"><strong>See all project details →</strong></a>
 </p>
 
-## ⚙︎ The stack
+## ⚡ The toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,framer,flutter,nodejs,express,postgres,prisma,python,git,github,vercel" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,framer,flutter,nodejs,express,postgres,prisma,python,git,github,vercel&perline=7" alt="Technology stack">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-101819?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-101819?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-101819?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-101819?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Framer_Motion-101819?style=for-the-badge&logo=framer&logoColor=BB85FF" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/Flutter-101819?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter">
 </p>
 
 <details>
@@ -127,7 +133,7 @@ My sweet spot is the space between **product design and software engineering**: 
 
 </details>
 
-## 📊 A little GitHub data
+## ◈ GitHub in motion
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ISyncPlus&show_icons=true&hide_border=true&bg_color=00000000&title_color=101819&icon_color=91c9ba&text_color=64748b&ring_color=91c9ba&include_all_commits=true" alt="GitHub stats">
@@ -140,11 +146,17 @@ My sweet spot is the space between **product design and software engineering**: 
   <img src="https://streak-stats.demolab.com?user=ISyncPlus&hide_border=true&background=00000000&ring=91c9ba&fire=e8b86d&currStreakLabel=101819&sideLabels=64748b&dates=64748b" alt="GitHub contribution streak">
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISyncPlus&bg_color=00000000&color=64748b&line=91c9ba&point=e8b86d&area=true&hide_border=true" alt="GitHub activity graph">
+</div>
+
 ## ⌁ Currently
 
 - Building products that combine **strong visual direction with solid engineering**
 - Exploring better ways to model and explain **complex relationships in data**
-- Growing a portfolio of **open-source experiments and useful tools**
+- Experimenting with **motion, 3D, and interaction design**
 - Open to thoughtful collaborations, freelance work, and interesting problems
 
 ## ↗ Find me online
@@ -167,5 +179,7 @@ My sweet spot is the space between **product design and software engineering**: 
 <br>
 
 <sub>Built with curiosity, care, and a little bit of motion by iSyncPlus.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8b86d,50:91c9ba,100:101819&height=120&section=footer&animation=fadeIn" alt="iSyncPlus animated footer">
 
 </div>
