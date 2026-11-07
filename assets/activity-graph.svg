@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity graph</title>
+  <desc id="desc">A decorative contribution activity graph representing recent GitHub activity.</desc>
+  <rect width="900" height="260" rx="14" fill="#101819" stroke="#33444a"/>
+  <text x="28" y="38" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">GitHub activity</text>
+  <g stroke="#26353a" stroke-width="1">
+    <line x1="34" y1="74" x2="866" y2="74"/><line x1="34" y1="112" x2="866" y2="112"/><line x1="34" y1="150" x2="866" y2="150"/><line x1="34" y1="188" x2="866" y2="188"/>
+  </g>
+  <polyline points="34,184 96,176 158,180 220,142 282,156 344,118 406,132 468,92 530,108 592,78 654,96 716,62 778,84 866,54" fill="none" stroke="#91c9ba" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="34,184 96,176 158,180 220,142 282,156 344,118 406,132 468,92 530,108 592,78 654,96 716,62 778,84 866,54 866,210 34,210" fill="#91c9ba" opacity=".12"/>
+  <g fill="#e8b86d">
+    <circle cx="220" cy="142" r="4"/><circle cx="344" cy="118" r="4"/><circle cx="468" cy="92" r="4"/><circle cx="592" cy="78" r="4"/><circle cx="716" cy="62" r="4"/>
+  </g>
+  <text x="34" y="238" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="13">Recent activity</text>
+  <text x="866" y="238" fill="#94a3b8" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13">Consistent progress</text>
+</svg>
